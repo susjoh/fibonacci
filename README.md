@@ -6,4 +6,4 @@ This is an example R package I made for an EdinbR talk on "Writing R Packages fr
 
 Annotated slides can be downloaded [here.](https://github.com/susjoh/fibonacci/raw/master/Writing_R_Packages_from_Scratch_v2_annotated.pdf)
 
-Any questions - [get in touch.](mailto:Susan.Johnston@ed.ac.uk)
+Any questions, comments, corrections - [please get in touch!](mailto:Susan.Johnston@ed.ac.uk)
