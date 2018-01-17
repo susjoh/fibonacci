@@ -4,10 +4,13 @@
 \alias{plot_fibonacci}
 \title{A function to plot a Fibonacci sequences.}
 \usage{
-plot_fibonacci(len)
+plot_fibonacci(len, gradient = T)
 }
 \arguments{
 \item{len}{numeric. Specify the length of the sequence.}
+
+\item{gradient}{logical. Default TRUE. Indicates whether points on the plot
+should be coloured by gradient.}
 }
 \description{
 This function creates a plot for a Fibonacci sequence of a specified length.
