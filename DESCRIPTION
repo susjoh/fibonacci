@@ -1,0 +1,14 @@
+Package: fibonacci
+Type: Package
+Title: Generates Fibonacci Sequences And Plots
+Version: 0.1.0
+Author: person("Susan", "Johnston", 
+  email = "Susan.Johnston@ed.ac.uk",
+  role = c("aut", "cre"))
+Description: This package generates Fibonacci sequences 
+    and plots for use in tutorials.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2, dplyr
+RoxygenNote: 6.0.1
