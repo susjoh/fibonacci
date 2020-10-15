@@ -1,5 +1,5 @@
 # fibonacci
-Example R package generating Fibonacci Sequences And Plots
+Tutorial to build a simple R package generating Fibonacci Sequences And Plots
 
 
 This is an example R package I made for an EdinbR talk on "Writing R Packages from scratch using RStudio & roxygen2" at the January 2018 Meeting.
